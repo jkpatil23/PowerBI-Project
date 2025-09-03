@@ -4,10 +4,9 @@ PROBLEM STATEMENT
 KPI’S Requirement
 
 1. Total EVs:
-
 - Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market’s size and growth.
 
-2. Electric Range:
+3. Electric Range:
 
 - Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
 - Determine maximum and minimum electric range of the electric vehicles in the dataset.
