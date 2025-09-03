@@ -3,7 +3,7 @@ PROBLEM STATEMENT
 
 KPI’S Requirement
 
-1. Total Vehicles:
+1. Total EVs:
 
 - Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market’s size and growth.
 
@@ -21,3 +21,6 @@ KPI’S Requirement
 
 - Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 - Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
+
+5. City and State with Most EVs:
+- Identify City and State with most EVs to get region with biggest size of EV business.
